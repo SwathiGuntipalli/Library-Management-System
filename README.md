@@ -26,3 +26,6 @@ A console-based Library Management System developed using C++ and Object-Oriente
 
 ## How to Run
 Compile the C++ source file using a compatible C++ compiler, then run the generated executable.
+## Output Screenshot
+
+![Library Management System](library-system.png)
